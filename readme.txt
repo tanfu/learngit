@@ -1,4 +1,4 @@
 ﻿Git is a distributed control system
 Git is free software distributed under the GPL
 Git has a mutable index called stagesd
-git tracks change
+git tracks change of files
